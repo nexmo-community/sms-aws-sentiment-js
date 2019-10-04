@@ -1,0 +1,16 @@
+{
+  "name": "SMS Sentiment Analysis with Nexmo & AWS Comprehend",
+  "description": "Example using AWS Comprehend to analyze SMS messages and determine the sentiment of the text.",
+  "keywords": ["sentiment analysis", "sms", "nodejs", "AWS Comprehend", "nexmo"],
+  "repository": "https://github.com/nexmo-community/sms-sentiment-aws-js",
+  "env": {
+    "AWS_ACCESS_KEY_ID": {
+      "description": "The API Key from AWS user"
+    },
+    "AWS_SECRET_ACCESS_KEY": {
+      "description": "The SECRET from AWS user",
+    },
+    "AWS_REGION": {
+      "description": "The AWS region",
+    }
+  }

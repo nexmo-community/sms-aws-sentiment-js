@@ -1,0 +1,19 @@
+{
+  "name": "sms-sentiment-aws-js",
+  "version": "1.0.0",
+  "description": "a sentiment analysis for SMS messages using AWS Comprehend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "contributors": [
+    "Kelly Andrews <kelly.andrews@nexmo.com> (http://www.twitter.com/kellyjandrews)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.542.0",
+    "body-parser": "1.18.3",
+    "dotenv": "6.2.0",
+    "express": "4.16.4"
+  }
+}

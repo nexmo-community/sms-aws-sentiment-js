@@ -8,9 +8,9 @@ SMS Messages sent through Nexmo will be sent to AWS Comprehend and a series of s
 
 ## AWS Comprehend
 
-Reference: [https://aws.amazon.com/comprehend/resources/](https://aws.amazon.com/comprehend/resources/)
-API Docs: [https://docs.aws.amazon.com/comprehend/latest/dg/comprehend-general.html](https://docs.aws.amazon.com/comprehend/latest/dg/comprehend-general.html)
-GitHub: [https://github.com/aws/aws-sdk-js](https://github.com/aws/aws-sdk-js)
++ Reference: [https://aws.amazon.com/comprehend/resources/](https://aws.amazon.com/comprehend/resources/)
++ API Docs: [https://docs.aws.amazon.com/comprehend/latest/dg/comprehend-general.html](https://docs.aws.amazon.com/comprehend/latest/dg/comprehend-general.html)
++ GitHub: [https://github.com/aws/aws-sdk-js](https://github.com/aws/aws-sdk-js)
 
 Create an [IAM user](https://console.aws.amazon.com/iam/home) with the `ComprehendFullAccess` policy attached. Copy the IAM user `Access Key ID`, `Secret Access Key`, and the AWS region being used.
 

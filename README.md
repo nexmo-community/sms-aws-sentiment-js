@@ -1,6 +1,6 @@
 # SMS Sentiment Analysis with AWS Comprehend
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/aws-nexmo-sms-analysis-heroku)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://nexmo.dev/33dJpOf)
 
 This example uses AWS Comprehend to analyze SMS messages and determine the sentiment of the text.
 

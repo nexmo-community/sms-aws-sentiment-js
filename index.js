@@ -1,7 +1,3 @@
-/* Simple Emotion Analysis Demo:
- * Read incoming SMS messages and have Watson to analyze the messages
- */
-
 'use strict';
 
 require('dotenv').config();
